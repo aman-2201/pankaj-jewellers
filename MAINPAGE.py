@@ -67,13 +67,12 @@ with open("pankajjewellers.jpg", "rb") as file:
             file_name="pankajjewellers.jpg",
             mime="image/jpg"
           )
-
- hide_streamlit_style = """
+hide_streamlit_style = """
             <style>
             #MainMenu {visibility: hidden;}
             footer {visibility: hidden;}
             </style>
             """
-st.markdown(hide_streamlit_style, unsafe_allow_html=True) 
+st.markdown(hide_streamlit_style, unsafe_allow_html=True)  
 
 
