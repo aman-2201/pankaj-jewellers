@@ -42,8 +42,8 @@ st.text("")
 st.text("")
 st.text("")
 
-input= st.select_slider("HOW WOULD YOU \" CK \" :crossed_fingers: RATE THIS: ",
-                        options=["amm bekarr 🤮","okaii okaii 😐","bdia 😍","areyy bhut bdia 🤯","bss 😏","bsss 💗"])
+input= st.select_slider("HOW WOULD YOU \" CPK \" :crossed_fingers: RATE THIS: ",
+                        options=["amm bekarr 🤮","okaii okaii 😐","bdia 😍","areyy bhut bdia 🤯","bss 😏","bsss naa bss💗"])
 st.write("Result",input)
 
 st.text("")
